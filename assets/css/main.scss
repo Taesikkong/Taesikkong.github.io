@@ -58,3 +58,19 @@
     box-sizing: border-box !important;
   }
 }
+@media (min-width: 64em) {
+  .sidebar.sticky {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  #main {
+    overflow: visible !important;
+  }
+
+  #main::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
