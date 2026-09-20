@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Taesikkong's personal website"
+title: "Welcome to Taesik kong's personal website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
