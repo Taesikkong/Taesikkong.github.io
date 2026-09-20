@@ -18,5 +18,11 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="var(--global-bg-color)"/>
-
+<script>
+  try {
+    if (!localStorage.getItem("theme")) {
+      localStorage.setItem("theme", "light");
+    }
+  } catch (e) {}
+</script>
 <!-- end custom head snippets -->
