@@ -52,3 +52,11 @@
     height: auto !important;
   }
 }
+@media (min-width: 64em) {
+  .masthead__inner-wrap,
+  #main,
+  .page__footer footer {
+    margin-left: 1em !important;
+    margin-right: auto !important;
+  }
+}
