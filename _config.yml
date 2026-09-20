@@ -24,9 +24,9 @@ repository               : "Taesikkong/Taesikkong.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Taesik Kong"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research intern at KAIST Bio and Brain Engineering.<br>Haptics, tactile illusion, and phase change materials""
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
