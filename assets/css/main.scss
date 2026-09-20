@@ -40,7 +40,7 @@
 /* 프로필 사진: 정사각형 + 크게 */
 .author__avatar img {
   border-radius: 0 !important;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 1 / 2;
   object-fit: cover;
   object-position: center top;
 }
