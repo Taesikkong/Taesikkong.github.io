@@ -71,7 +71,7 @@
   /* 스크롤할 때 왼쪽도 같이 내려가게 + 잘림 방지 */
   .sidebar.sticky {
     position: relative !important;
-    top: -20em !important;
+    top: -15em !important;
     max-height: none !important;
     overflow: visible !important;
   }
