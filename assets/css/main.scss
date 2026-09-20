@@ -53,10 +53,7 @@
   }
 }
 @media (min-width: 64em) {
-  .masthead__inner-wrap,
-  #main,
-  .page__footer footer {
-    margin-left: 1em !important;
-    margin-right: auto !important;
+  .page {
+    padding-left: 3em !important;
+    box-sizing: border-box !important;
   }
-}
