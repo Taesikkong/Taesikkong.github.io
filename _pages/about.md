@@ -13,9 +13,9 @@ My research focuses on developing haptic devices that render material properties
 
 ## Education
 
-- **Yonsei University**, Seoul, South Korea
-  - B.S., Mechanical Engineering (Mar 2020 – Feb 2025)
-  - Integrated M.S.–Ph.D. Program, Mechanical Engineering (Mar 2025 – Aug 2026) → switched research fields
+**Yonsei University**, Seoul, South Korea
+- B.S., Mechanical Engineering (Mar 2020 – Feb 2025)
+- Integrated M.S.–Ph.D. Program, Mechanical Engineering (Mar 2025 – Aug 2026) → switched research fields
 
 
 ## News & Updates
