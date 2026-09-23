@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Hi, I'm Taesik Kong <br>Researcher at KAIST — Sensory Substitution & Haptic Actuators"
+title: "Hi, I'm Taesik Kong Researcher at KAIST"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+### Sensory Substitution & Haptic Actuators
 
 I am a research intern in the Department of Bio and Brain Engineering at KAIST. I am interested in how we can create and control touch sensations in a controllable and programmable way, and in how engineered devices can interface with the human nervous system.
 
