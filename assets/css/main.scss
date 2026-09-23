@@ -86,3 +86,10 @@
     clear: both;
   }
 }
+.page__title {
+  margin-bottom: 0.2em !important;
+}
+
+.page__content h3:first-child {
+  margin-top: 0 !important;
+}
