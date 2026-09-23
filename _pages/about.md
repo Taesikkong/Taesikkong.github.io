@@ -10,7 +10,9 @@ redirect_from:
 
 ### Researcher at KAIST — Sensory Substitution & Haptic Actuators
 
-I am a research intern at IBI Lab, KAIST, preparing to apply for the M.S. program in Bio and Brain Engineering. My research focuses on restoring the sense of touch for people who have lost tactile sensation in a limb — for example, upper-limb amputees using a prosthetic hand. By attaching arrays of electromagnetic actuators to intact skin on the back or wrist, I translate the prosthetic hand's interactions with real objects into tactile sensations the person can feel again, using the body's own sensory pathways.
+I am a research intern at IBI Lab, KAIST, preparing to apply for the M.S. program in Bio and Brain Engineering. 
+
+My research focuses on developing haptic devices that render material properties — texture, temperature, and Modulus — at the fingertip with high spatial and temporal resolution, so the sensation feels as close as possible to touching the real material. 
 
 ## Research Interests
 
