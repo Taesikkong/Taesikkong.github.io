@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Taesik kong's personal website"
+title: "Hi, I'm Taesik Kong <br>Researcher at KAIST — Sensory Substitution & Haptic Actuators"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 I am a research intern in the Department of Bio and Brain Engineering at KAIST. I am interested in how we can create and control touch sensations in a controllable and programmable way, and in how engineered devices can interface with the human nervous system.
+
+### Researcher at KAIST — Sensory Substitution & Haptic Actuators
+
+I am a research intern in the Department of Bio and Brain Engineering at KAIST. My research focuses on restoring the sense of touch for people who have lost tactile sensation in a limb — for example, upper-limb amputees using a prosthetic hand. By attaching arrays of electromagnetic actuators to intact skin on the back or wrist, I translate the prosthetic hand's interactions with real objects into tactile sensations the person can feel again, using the body's own sensory pathways.
+
 ## Research Interests
 
 - **Electromagnetic haptic actuation**: designing electromagnetic actuators that deliver tactile feedback
@@ -18,8 +23,18 @@ I am a research intern in the Department of Bio and Brain Engineering at KAIST. 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
+## Education
+
+- **Research Intern**, Department of Bio and Brain Engineering, KAIST — IBI LAB
+- **Mechanical Engineering**, Yonsei University
+
+## News & Updates
+
+- **2026** — Selected as Principal Investigator for a National Research Foundation of Korea (NRF) individual research grant for master's degree students
+- **2026** — Began research internship at KAIST IBI LAB, Department of Bio and Brain Engineering
+
+# A data-driven personal website
+
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
