@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Researcher at KAIST — Sensory Substitution & Haptic Actuators
-
 I am a research intern at IBI Lab, KAIST, preparing to apply for the M.S. program in Bio and Brain Engineering. 
 
 My research focuses on developing haptic devices that render material properties — texture, temperature, and Modulus — at the fingertip with high spatial and temporal resolution, so the sensation feels as close as possible to touching the real material. 
