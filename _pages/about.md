@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hi, I'm Taesik Kong"
 excerpt: "About me"
 author_profile: true
 redirect_from:
