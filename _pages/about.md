@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research intern at IBI Lab, KAIST, preparing to apply for the M.S. program in Bio and Brain Engineering. <br>
+I am a **research intern** at [IBI Lab](https://sites.google.com/view/haresearchgroup/people?authuser=0), KAIST, preparing to apply for the M.S. program in Bio and Brain Engineering. <br>
 My research focuses on developing haptic devices that render material properties (texture, temperature, and modulus) at the fingertip with high spatial and temporal resolution, so the sensation feels as close as possible to touching the real material. 
 
 ## Research Interests
