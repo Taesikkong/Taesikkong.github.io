@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Taesik Kong Researcher at KAIST"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
