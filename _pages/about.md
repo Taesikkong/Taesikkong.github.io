@@ -11,17 +11,16 @@ redirect_from:
 I am a **research intern** at [IBI Lab](https://sites.google.com/view/haresearchgroup/home?authuser=0), KAIST, preparing to apply for the M.S. program in Bio and Brain Engineering. <br>
 My research focuses on developing haptic devices that render material properties (texture, temperature, and modulus) at the fingertip with high spatial and temporal resolution, so the sensation feels as close as possible<br>to touching the real material. 
 
-## Research Interests
-
-- **Electromagnetic haptic actuation**: designing electromagnetic actuators that deliver tactile feedback
-- **Tactile illusion and phantom sensation**: generating perceived touch sensations that go beyond the physical stimulus
-- **Human biological neural networks**: utilizing the body's own neural circuitry for sensing and interfacing
-- **Phase change materials**: exploring materials whose state change can be used for actuation and tactile presentation
-
 ## Education
 
-- **Research Intern**, Department of Bio and Brain Engineering, KAIST — IBI LAB
-- **Mechanical Engineering**, Yonsei University
+- **Yonsei University**, Seoul, South Korea
+  - B.S., Mechanical Engineering (Mar 2020 – Feb 2025)
+  - Integrated M.S.–Ph.D. Program, Mechanical Engineering (Mar 2025 – Aug 2026) → pursuing research in haptics and sensory feedback systems
+
+
+
+
+
 
 ## News & Updates
 
