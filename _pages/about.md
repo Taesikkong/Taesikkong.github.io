@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Taesik Kong"
+title: "Hi, I'm <span class=\"name-highlight\">Taesik Kong</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from:
