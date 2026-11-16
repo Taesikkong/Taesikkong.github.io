@@ -5,6 +5,26 @@ permalink: /honors/
 author_profile: true
 ---
 
+## Awards
+
+**Best Poster Award** · 2026<br>
+*Society of Micro and Nano Systems (SMNS)*
+
+**Best Poster Award** · 2025<br>
+*Korean Flexible & Printed Electronics Society (KFPE)*
+
+**Best Poster Award** · 2025<br>
+*Korean Society of Mechanical Engineers (KSME)*
+
+**Best Poster Award** · 2025<br>
+*International Meeting on Information Display (IMID)*
+
+**Best Poster Award** · 2025<br>
+*Society of Micro and Nano Systems (SMNS)*
+
+**Invited Paper, *MRS Communications*** · 2025<br>
+*Invited by the Editor-in-Chief to submit a Research Letter*
+
 ## Research Grants
 
 **Yonsei Junior Convergence Research Group** · 2026<br>
