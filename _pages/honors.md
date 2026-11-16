@@ -31,6 +31,4 @@ author_profile: true
 - KRW 1,250,000 (~USD 890)
 - Awarded for good character and commitment to community service.
 
-**University Scholarship (Jayu)** · Junior year, Fall
-*Yonsei University*
-- KRW 777,000 (~USD 560)
+
